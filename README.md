@@ -1,7 +1,7 @@
-# Data-Science-Masters_Python_Assignment-1
+# Assignments_Session_1_To_Session_5
 The assignement comprises creating a source code for the following problems. 
 
-Problem Statement:  PYTHON 1
+# Problem Statement:  PYTHON 1
 
 (Python1_Assignment1)- Install Jupyter notebook and run the first program and share the screenshot of the output
 
@@ -11,14 +11,14 @@ Problem Statement:  PYTHON 1
 
 (Python1_Assignment4) - Write a Python program to find the volume of a sphere with diameter 12 cm. Formula: V=4/3 * π * r 3
 
-Problem Statement:  PYTHON 2 
+# Problem Statement:  PYTHON 2 
 
 (Python2_Assignment1) - Write a program which accepts a sequence of comma-separated numbers from console and generate a list.  
 (Python2_Assignment2) - Create a pattern using nested for loop in Python.   
 (Python2_Assignment3) - Write a Python program to reverse a word after accepting the input from the user.    
 (Python2_Assignment4) - Write a Python Program to print the given string in the format specified. 
 
-Problem Statement:  PYTHON 3 
+# Problem Statement:  PYTHON 3 
 
 (Python3_Assignment1) 
 1.1) Write a Python Program to implement your own myreduce() function which works exactly like Python's built-in function reduce()  
@@ -27,7 +27,7 @@ Problem Statement:  PYTHON 3
 (Python3_Assignment2) - Implement List comprehensions to produce the following lists.
 (Python3_Assignment3) - Implement a function longestWord() that takes a list of words and returns the longest one.
 
-Problem Statement:  PYTHON 4
+# Problem Statement:  PYTHON 4
 
 (Python4_Assignment1.1) - Write a Python Program(with class concepts) to find the area of the triangle using the below formula.  
 area = (s*(s-a)*(s-b)*(s-c)) ** 0.5  
@@ -39,7 +39,7 @@ Function to take the length of the sides of triangle from user should be defined
     
 (Python4_Assignment2.2) - Write a Python function which takes a character (i.e. a string of length 1) and returns True if it is a vowel, False otherwise
 
-Problem Statement:  PYTHON 5   
+# Problem Statement:  PYTHON 5   
 (Python5_Assignment1) - Write a function to compute 5/0 and use try/except to catch the exceptions.  
 
 (Python5_Assignment2) - Implement a Python program to generate all sentences where subject is in ["Americans", "Indians"] and verb is in ["Play", "watch"] and the object is in ["Baseball","cricket"].
